@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/index.js",
+      "sha1": "948a3308c0bce88f604ad7274feb40f65000b819"
+    },
+    {
+      "path": "src/assets/fonts/Lora-Bold.ttf",
+      "sha1": "108001983cd46eae91ada8ee77deb4a91e40a9aa"
+    },
+    {
+      "path": "src/assets/fonts/Lora-BoldItalic.ttf",
+      "sha1": "073ca183b2835f9651d2cdbaca394d1cf32d2751"
+    },
+    {
+      "path": "src/assets/fonts/Lora-Italic.ttf",
+      "sha1": "e68ee46c917c6c7406a918396c791a378c70e561"
+    },
+    {
+      "path": "src/assets/fonts/Lora-Regular.ttf",
+      "sha1": "5fa1ded5de4ce864556c861c2ba6f4ec19e1a21a"
+    },
+    {
+      "path": "src/assets/fonts/SIL Open Font License.txt",
+      "sha1": "f4b216a795999c3476ad2b1508f7ecb2f5067bd3"
+    }
+  ]
+}
